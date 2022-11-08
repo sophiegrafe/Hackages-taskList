@@ -1,0 +1,10 @@
+.task-list {
+    padding: 1rem;
+}
+
+.task-list h2 {
+    font-size: 1.5rem;
+    font-weight: 300;
+    color: var(--grey);
+    margin-bottom: 1rem;
+}
